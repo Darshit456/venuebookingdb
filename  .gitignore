@@ -1,0 +1,15 @@
+# Node
+node_modules/
+dist/
+.vite/
+
+# .NET
+Backend/bin/
+Backend/obj/
+Backend/publish/
+Backend/.vs/
+
+# OS
+.DS_Store
+Thumbs.db
+
